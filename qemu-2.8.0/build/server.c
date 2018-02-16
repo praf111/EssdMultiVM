@@ -13,10 +13,6 @@
 #define VM_NO 10
 #define SIZE 209715200
 #define size1 1000000
-/*Just Test*/
-// void *inc_x(void *);
-//
-
 key_t ShmKEY;
 int ShmID;int temp[SIZE];
 struct Memory *ShmPTR;
